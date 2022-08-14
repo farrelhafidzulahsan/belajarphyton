@@ -1,2 +1,3 @@
 # belajarphyton
-hi ini project pertama saya disini
+belajar pertama github
+
