@@ -1,0 +1,6 @@
+nomor = int(input('Insert Number'))
+nilai awal = 1
+
+while nilai_awal <= number:
+ print(f'Nilai {iterasi}')
+ iterasi = iterasi + 1
